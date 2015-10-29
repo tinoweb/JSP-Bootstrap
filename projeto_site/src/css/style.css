@@ -1,0 +1,21 @@
+.cor1, .cor2{
+	padding: 8px;
+}
+.cor1{background-color: #ccc;}
+.cor2{background-color: #f60;}
+
+.corpo{height: 300px;
+top: -1em;
+position: relative;
+left: 29px;}
+.procura{position: relative;top: 10px;}
+.rodape {
+text-align: center;
+padding: 30px 0;
+margin-top: 70px;
+border-top: 1px solid #e5e5e5;
+background-color: #f5f5f5;
+position: relative;
+
+height: 92px;
+}
